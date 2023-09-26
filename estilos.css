@@ -1,0 +1,56 @@
+/*Asi se escribe un comentario*/
+body{
+    background-color: #e0b67e ;
+    color:#411803 ;
+    font-family: 'Abel', sans-serif; }
+h1, p {
+    color: #77101b;
+}
+h3{
+    color: #222c2c;
+}
+ol{
+    color:#000000 ;
+}
+ul{
+    color:#000000 ;
+}
+
+.img1{
+    width: 400px;
+    height: 250px;
+    border-style: solid;
+    border-style: double;
+    border-color: #ffd535;
+    border-width: 10px;
+    padding: 30px;
+    margin: 30px;
+}
+.img2{
+    width: 400px;
+    height: 250px;
+    border-style: solid;
+    border-style: double;
+    padding: 30px;
+    margin: 30px;
+}
+.img3{
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    border-style: double;
+    padding: 30px;
+    margin: 30px;
+}
+    .img4{
+        width: 400px;
+        height: 250px;
+        border-style: solid;
+        border-style: double;
+        padding: 30px;
+        margin: 30px;
+}
+
+small {
+    color: #004334 ;
+}
